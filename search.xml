@@ -4,6 +4,60 @@
   
     
     <entry>
+      <title>Linux基本操作</title>
+      <link href="/2024/04/26/Linux/"/>
+      <url>/2024/04/26/Linux/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h1><h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><h5 id="name-or-service-not-know"><a href="#name-or-service-not-know" class="headerlink" title="name or service not know"></a><strong>name or service not know</strong></h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/resolv.conf</span><br><span class="line">//添加</span><br><span class="line">nameserver 8.8.8.8</span><br><span class="line">nameserver 114.114.114.114</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+          <category> 编程语言 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计算机网络课设</title>
+      <link href="/2024/04/26/Computer_Network/"/>
+      <url>/2024/04/26/Computer_Network/</url>
+      
+        <content type="html"><![CDATA[<h1 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h1><h2 id="wireshark"><a href="#wireshark" class="headerlink" title="wireshark"></a>wireshark</h2><h2 id="Winpcap"><a href="#Winpcap" class="headerlink" title="Winpcap"></a>Winpcap</h2><p>1安装</p><p><a href="http://www.winpcap.org/install/default.htm">http://www.winpcap.org/install/default.htm</a></p><p><a href="http://www.winpcap.org/devel.htm">http://www.winpcap.org/devel.htm</a></p><p>2环境</p><p><a href="https://www.cnblogs.com/Severus-Cavendish/p/14363059.html">WinPcap的安装配置与初步使用 - Weisswire - 博客园 (cnblogs.com)</a></p><p><a href="https://blog.csdn.net/m0_67391907/article/details/126598018?ops_request_misc=%7B%22request_id%22:%22171214225916800215041853%22,%22scm%22:%2220140713.130102334.pc_all.%22%7D&request_id=171214225916800215041853&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-126598018-null-null.142%5Ev100%5Epc_search_result_base9&utm_term=Winpcap%E7%BC%96%E7%A8%8Bdemo&spm=1018.2226.3001.4187">WinPcap网络编程入门——0. 环境配置及系列介绍-CSDN博客</a></p><p>3问题</p><p>ws2_32.lib</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+          <category> 课程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 计算机网络 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>英语</title>
       <link href="/2024/04/26/%E8%8B%B1%E8%AF%AD/"/>
       <url>/2024/04/26/%E8%8B%B1%E8%AF%AD/</url>
@@ -25,45 +79,6 @@
             <tag> 英语 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2024/04/18/Linux/"/>
-      <url>/2024/04/18/Linux/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Linux"><a href="#Linux" class="headerlink" title="Linux"></a>Linux</h1><h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><h5 id="name-or-service-not-know"><a href="#name-or-service-not-know" class="headerlink" title="name or service not know"></a><strong>name or service not know</strong></h5><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">vi /etc/resolv.conf</span><br><span class="line">//添加</span><br><span class="line">nameserver 8.8.8.8</span><br><span class="line">nameserver 114.114.114.114</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title></title>
-      <link href="/2024/04/03/Computer_Network/"/>
-      <url>/2024/04/03/Computer_Network/</url>
-      
-        <content type="html"><![CDATA[<h1 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h1><h2 id="wireshark"><a href="#wireshark" class="headerlink" title="wireshark"></a>wireshark</h2><h2 id="Winpcap"><a href="#Winpcap" class="headerlink" title="Winpcap"></a>Winpcap</h2><p>1安装</p><p><a href="http://www.winpcap.org/install/default.htm">http://www.winpcap.org/install/default.htm</a></p><p><a href="http://www.winpcap.org/devel.htm">http://www.winpcap.org/devel.htm</a></p><p>2环境</p><p><a href="https://www.cnblogs.com/Severus-Cavendish/p/14363059.html">WinPcap的安装配置与初步使用 - Weisswire - 博客园 (cnblogs.com)</a></p><p><a href="https://blog.csdn.net/m0_67391907/article/details/126598018?ops_request_misc=%7B%22request_id%22:%22171214225916800215041853%22,%22scm%22:%2220140713.130102334.pc_all.%22%7D&request_id=171214225916800215041853&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-126598018-null-null.142%5Ev100%5Epc_search_result_base9&utm_term=Winpcap%E7%BC%96%E7%A8%8Bdemo&spm=1018.2226.3001.4187">WinPcap网络编程入门——0. 环境配置及系列介绍-CSDN博客</a></p><p>3问题</p><p>ws2_32.lib</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>uni</title>
-      <link href="/2024/03/17/uni/"/>
-      <url>/2024/03/17/uni/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
       
     </entry>
     
